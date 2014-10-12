@@ -1,0 +1,7 @@
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\bin\Debug\Unity3DWebFundamentals.dll
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\bin\Debug\Unity3DWebFundamentals.pdb
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\bin\Debug\UnityEditor.dll
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\bin\Debug\UnityEngine.dll
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\obj\Debug\Unity3DWebFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\obj\Debug\Unity3DWebFundamentals.dll
+C:\Users\Rob\Downloads\unity-3d-web-fundamentals-csharp\1-unity-3d-exercise-files\after\vs\Unity3D Web Fundamentals Solution\Unity3DWebFundamentals\obj\Debug\Unity3DWebFundamentals.pdb
